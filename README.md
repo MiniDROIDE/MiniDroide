@@ -1,6 +1,6 @@
 # Hola, soy Fran Delgado 👋
 
-Soy un **programador Java** apasionado por la tecnología y la resolución de problemas. Me encanta crear software eficiente y escalable. En mi tiempo libre, también disfruto creando música y jugando videojuegos, ¡porque la creatividad no tiene límites!
+Soy un **programador Java** apasionado por la tecnología y la resolución de problemas. Me encanta crear software eficiente y escalable.
 
 ## 🧑‍💻 Sobre mí
 
