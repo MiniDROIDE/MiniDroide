@@ -23,7 +23,7 @@ Soy un **programador Java** apasionado por la tecnología y la resolución de pr
 ## 📫 ¿Cómo contactarme?
 
 - Correo: [fran.delgado@example.com](mailto:fran.delgado@example.com)
-- Puedes encontrarme en [Twitter](https://twitter.com/FranDelgado) o [LinkedIn](https://www.linkedin.com/in/frandelgado).
+- Puedes encontrarme en [Twitter](https://twitter.com/FranDelgadooooooooo) o [LinkedIn](https://www.linkedin.com/in/frandelgadoooooooooooooooo).
 
 ## 🎮 Gaming
 
